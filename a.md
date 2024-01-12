@@ -68,3 +68,24 @@
 </body>
 </html>
 ```
+### ツーカラムレイアウト
+```php
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="div" content="div", initial-scale=1.0">
+  <title>"ツーカラムレイアウト"</title>
+</head>
+<body>
+  <div style="width: 100%; height: 500px;">
+    <div style="background-color: red; width: 100%; height: 10%;">ヘッダー</div>
+    <div style="display: flex; height: 80%;">
+      <div style="background-color: pink; width: 20%; height: 60%;">メニュー</div>
+      <div style="background-color: yellow; width: 80%;   height: 100%; ">コンテンツ</div>
+    </div>
+
+    <div style="background-color: green; width: 100%; height: 10%; ">フッター</div>
+  </div>
+</body>
+</html>
+```
