@@ -89,3 +89,27 @@
 </body>
 </html>
 ```
+### グリッドレイアウト
+```php
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="div" content="div", initial-scale=1.0">
+  <title>"グリッドレイアウト"</title>
+</head>
+<body>
+  <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; width: 100%; height: 500px;">
+    <div style="background-color: aquamarine;">四角</div>
+    <div style="background-color: beige;">四角</div>
+    <div style="background-color: blueviolet;">四角</div>
+    <div style="background-color: brown;">四角</div>
+    <div style="background-color: burlywood;">四角</div>
+    <div style="background-color: cadetblue;">四角</div>
+    <div style="background-color: chartreuse;">四角</div>
+    <div style="background-color: red;">四角</div>
+    <div style="background-color: green;">四角</div>
+  </div>
+</body>
+</html>
+
+```
