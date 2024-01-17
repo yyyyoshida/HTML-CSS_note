@@ -35,7 +35,7 @@ h1 {
 /*奥が深い概念
 ```
 ### 詳細度
-[参考サイト](https://developer.mozilla.org/ja/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#specificity_2){:target="_blank"}
+[タイトル](https://developer.mozilla.org/ja/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#specificity_2){:target="_blank"}
 ```php
 h1 {
   color: red;
