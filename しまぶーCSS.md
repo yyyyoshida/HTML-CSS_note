@@ -80,3 +80,58 @@ article p:first-child {
   color: red;
 }
 ```
+### 疑似クラス :last-of-type, last-child
+```php
+article p:last-of-type {
+  color: red;
+}
+```
+```php
+article p:last-child {
+  color: red;
+}
+```
+### 疑似クラス :nth-of-type(), :nth-child() 順番指定
+```php
+article p:nth-of-type(2) {
+  color: red;
+}
+```
+### 疑似クラス :not
+```php
+article p:not(:first-of-type) {
+  color: red;
+}
+```
+### 疑似クラス :hover
+```php
+p:hover {
+  background-color: pink;
+}
+p:not(:hover) {
+  background-color: pink;
+}
+```
+### 疑似要素 ::after, ::before
+```php
+h1::after {
+  content: '!!!!';
+}
+```
+```php
+h1::before {
+  content: '!!!!';
+}
+```
+### 疑似クラス ::first-line, ::first-letter
+```php
+p::first-line {
+  color: red;
+}
+```
+```php
+p::first-letter {
+  color: red;
+}
+# 結合子
+```
