@@ -133,5 +133,44 @@ p::first-line {
 p::first-letter {
   color: red;
 }
+```
 # 結合子
+### 子孫結合子
+```php
+article p {
+  color: red;
+}
+```
+```php
+main article h1 {
+  color: red;
+}
+```
+### 子結合子
+```php
+main > h1 {
+  color: red;
+}
+```
+### 隣接兄弟結合
+```php
+article p:not(:first-of-type) {
+  color: red;
+}
+/*省略↓*/
+article p + p {
+  color: red;
+}
+/*よく使われる記述*/
+article p + p {
+  margin-top: 60px;
+}
+```
+### 一般兄弟結合子
+### あまり使わない
+```php
+/*h1より後ろのpタグにredを当てる
+article h1 ~ p {
+  color: red;
+}
 ```
