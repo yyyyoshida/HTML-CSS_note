@@ -35,13 +35,14 @@
 # 継承
 ## [inherit](https://developer.mozilla.org/ja/docs/Web/CSS/inherit/)
 
-[](/)
+# ボックスモデル
+## [width](https://developer.mozilla.org/ja/docs/Web/CSS/width/)
 
-[](/)
+## [height](https://developer.mozilla.org/ja/docs/Web/CSS/height/)
 
-[](/)
+## [border](https://developer.mozilla.org/ja/docs/Web/CSS/border/)
 
-[](/)
+## [box-sizing](https://developer.mozilla.org/ja/docs/Web/CSS/box-sizing/)
 
 [](/)
 
