@@ -42,6 +42,8 @@
 
 ## [border](https://developer.mozilla.org/ja/docs/Web/CSS/border/)
 
+## [border-width](https://developer.mozilla.org/ja/docs/Web/CSS/border-width/)
+
 ## [border-style](https://developer.mozilla.org/ja/docs/Web/CSS/border-style/)
 
 ## [box-sizing](https://developer.mozilla.org/ja/docs/Web/CSS/box-sizing/)
