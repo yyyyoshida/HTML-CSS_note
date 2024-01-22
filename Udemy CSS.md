@@ -17,12 +17,35 @@
 # 隣接セレクター
 [隣接セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Next-sibling_combinator/)
 
-
 # 直下セレクター
 [直下セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Child_combinator/)
 
 # 属性セレクター
 [属性セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Attribute_selectors/)
+
+# :hover
+[:hover](https://developer.mozilla.org/ja/docs/Web/CSS/:hover/)
+
+# :active
+[:active](https://developer.mozilla.org/ja/docs/Web/CSS/:active/)
+
+# :nth-of-type()
+[:nth-of-type](https://developer.mozilla.org/ja/docs/Web/CSS/:nth-of-type/)
+[](/)
+[](/)
+[](/)
+[](/)
+[](/)
+[](/)
+
+
+
+
+
+
+
+
+
 
 
 
