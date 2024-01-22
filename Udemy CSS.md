@@ -19,7 +19,7 @@
 
 
 # 直下セレクター
-[直下セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/CSS_selectors/)
+[直下セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Child_combinator/)
 
 # 
 
