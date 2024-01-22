@@ -50,9 +50,9 @@
 
 ## [box-sizing](https://developer.mozilla.org/ja/docs/Web/CSS/box-sizing/)
 
-[](/)
+## [padding](https://developer.mozilla.org/ja/docs/Web/CSS/padding/)
 
-[](/)
+## [margin](https://developer.mozilla.org/ja/docs/Web/CSS/margin/)
 
 [](/)
 
