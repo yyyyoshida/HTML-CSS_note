@@ -53,8 +53,11 @@
 ## [padding](https://developer.mozilla.org/ja/docs/Web/CSS/padding/)
 
 ## [margin](https://developer.mozilla.org/ja/docs/Web/CSS/margin/)
-
-[](/)
+# Displayプロパティ
+* INLINE
+* BLOCK
+* INLINE-BLOCK
+## [display](https://developer.mozilla.org/ja/docs/Web/CSS/display/)
 
 [](/)
 
