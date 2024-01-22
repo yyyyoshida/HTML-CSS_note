@@ -1,37 +1,32 @@
-#  text-align
-[text-align](https://developer.mozilla.org/ja/docs/Web/CSS/text-align/)
-# font-weight
-[text-align](https://developer.mozilla.org/ja/docs/Web/CSS/font-weight/)
-# text-decoration
-[text-decoration](https://developer.mozilla.org/ja/docs/Web/CSS/text-decoration/)
+## [text-align](https://developer.mozilla.org/ja/docs/Web/CSS/text-align/)
 
-# line-height
-[line-height](https://developer.mozilla.org/ja/docs/Web/CSS/line-height/)
+## [font-weight](https://developer.mozilla.org/ja/docs/Web/CSS/font-weight/)
 
-# letter-spacing
-[letter-spacing](https://developer.mozilla.org/ja/docs/Web/CSS/letter-spacing/)
+## [text-decoration](https://developer.mozilla.org/ja/docs/Web/CSS/text-decoration/)
 
-# font-family
-[font-family](https://developer.mozilla.org/ja/docs/Web/CSS/font-family/)
+## [line-height](https://developer.mozilla.org/ja/docs/Web/CSS/line-height/)
 
-# 隣接セレクター
-[隣接セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Next-sibling_combinator/)
+## [letter-spacing](https://developer.mozilla.org/ja/docs/Web/CSS/letter-spacing/)
 
-# 直下セレクター
-[直下セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Child_combinator/)
+## [font-family](https://developer.mozilla.org/ja/docs/Web/CSS/font-family/)
 
-# 属性セレクター
-[属性セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Attribute_selectors/)
+## [隣接セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Next-sibling_combinator/)
 
-# :hover
-[:hover](https://developer.mozilla.org/ja/docs/Web/CSS/:hover/)
+## [直下セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Child_combinator/)
 
-# :active
-[:active](https://developer.mozilla.org/ja/docs/Web/CSS/:active/)
+## [属性セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Attribute_selectors/)
 
-# :nth-of-type()
-[:nth-of-type](https://developer.mozilla.org/ja/docs/Web/CSS/:nth-of-type/)
-[](/)
+## [:hover](https://developer.mozilla.org/ja/docs/Web/CSS/:hover/)
+
+## [:active](https://developer.mozilla.org/ja/docs/Web/CSS/:active/)
+
+## [:nth-of-type](https://developer.mozilla.org/ja/docs/Web/CSS/:nth-of-type/)
+
+# 疑似要素
+## [疑似要素一覧](https://developer.mozilla.org/ja/docs/Web/CSS/Pseudo-elements/)
+
+
+
 [](/)
 [](/)
 [](/)
