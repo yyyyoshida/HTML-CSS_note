@@ -21,8 +21,8 @@
 # 直下セレクター
 [直下セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Child_combinator/)
 
-# 
-
+# 属性セレクター
+[属性セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Attribute_selectors/)
 
 
 
