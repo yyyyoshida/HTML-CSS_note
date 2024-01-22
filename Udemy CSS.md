@@ -29,9 +29,11 @@
 
 ## [::selection](https://developer.mozilla.org/ja/docs/Web/CSS/::selection/)
 
-[](/)
+# 詳細度
+## [詳細度](https://developer.mozilla.org/ja/docs/Web/CSS/Specificity/)
 
-[](/)
+# 継承
+## [inherit](https://developer.mozilla.org/ja/docs/Web/CSS/inherit/)
 
 [](/)
 
