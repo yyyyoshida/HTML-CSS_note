@@ -1,3 +1,9 @@
-https://developer.mozilla.org/ja/docs/Web/CSS/text-decoration
-### text-decoration
-This site was built using [text-decoration](https://developer.mozilla.org/ja/docs/Web/CSS/text-decoration/)
+text-align: center
+font-weight: 400;
+
+***
+# text-decoration
+引用サイト[text-decoration](https://developer.mozilla.org/ja/docs/Web/CSS/text-decoration/)
+
+# line-height
+引用サイト[text-decoration](https://developer.mozilla.org/ja/docs/Web/CSS/line-height/)
