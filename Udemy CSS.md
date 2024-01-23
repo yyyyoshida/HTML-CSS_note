@@ -63,7 +63,10 @@
 ## [em](https://ui-hack.com/programming/html_css/howtouse_cssemunits//)
 
 ## [rem](https://owl-view.com/css/1099//)
-[](/)
+# 不透明度とアルファチャンネル
+
+## rgba()
+## [opacity](https://developer.mozilla.org/ja/docs/Web/CSS/opacity/)
 [](/)
 [](/)
 [](/)
