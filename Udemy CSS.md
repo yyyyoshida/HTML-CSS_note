@@ -73,8 +73,8 @@
 ## position: static
 ## position: relative
 ## position: absolute
-## posotion: fixed
-[](/)
+## position: fixed
+## [position: sticky](https://zero-plus.io/media/use-sticky-to-fix-elements//)
 [](/)
 [](/)
 
