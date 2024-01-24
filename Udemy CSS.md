@@ -67,7 +67,9 @@
 
 ## rgba()
 ## [opacity](https://developer.mozilla.org/ja/docs/Web/CSS/opacity/)
-[](/)
+***
+## positionプロパティ
+[position解説](https://saruwakakun.com/html-css/basic/relative-absolute-fixed/)
 [](/)
 [](/)
 [](/)
