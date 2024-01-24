@@ -84,12 +84,12 @@
 ## [transition-duration](https://developer.mozilla.org/ja/docs/Web/CSS/transition-duration/)
 ## [transition-delay](https://developer.mozilla.org/ja/docs/Web/CSS/transition-delay/)
 ## [transition-timing-function](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)
-## * [ease](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：開始と終了を滑らかに
-## * [linear](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：一定
-## * [ease-in](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：開始がゆっくり
-## * [ease-out](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：終了がゆっくり
-## * [ease-in-out](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：開始と終了がゆっくり
-## * cubic-bezier(※難)
+## ・[ease](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：開始と終了を滑らかに
+## ・[linear](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：一定
+## ・[ease-in](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：開始がゆっくり
+## ・[ease-out](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：終了がゆっくり
+## ・[ease-in-out](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：開始と終了がゆっくり
+## ・cubic-bezier(※難)
 ## [](/)
 ## [](/)
 ## [](/)
