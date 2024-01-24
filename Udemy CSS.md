@@ -88,8 +88,19 @@
 ## ・[ease-out](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：終了がゆっくり
 ## ・[ease-in-out](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：開始と終了がゆっくり
 ## ・[cubic-bezier](https://cubic-bezier.com/)：細かく調節
-## [](/)
-## [](/)
+## ・[easing](https://easings.net//)
+***
+# Transform
+## [transform](https://developer.mozilla.org/ja/docs/Web/CSS/transform/)
+## ・[rotate()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/rotate/)
+## ・[](/)
+## ・[](/)
+## ・[](/)
+## ・[](/)
+## ・[](/)
+## ・[](/)
+## ・[](/)
+## ・[](/)
 ## [](/)
 ## [](/)
 ## [](/)
