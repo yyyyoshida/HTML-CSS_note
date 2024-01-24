@@ -70,7 +70,7 @@
 ***
 ## positionプロパティ
 [position解説](https://saruwakakun.com/html-css/basic/relative-absolute-fixed/)
-[](/)
+[position: static](https://saruwakakun.com/html-css/basic/relative-absolute-fixed#:~:text=%E3%81%AB%E5%BA%83%E3%81%8C%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82-,3.%20static%E3%81%A8%E3%81%AF%EF%BC%9F,-%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E3%81%AF/)
 [](/)
 [](/)
 [](/)
