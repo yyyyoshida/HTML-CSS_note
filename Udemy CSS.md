@@ -80,8 +80,6 @@
 # transition
 ## [transition](https://developer.mozilla.org/ja/docs/Web/CSS/transition/)
 ## transitionプロパティ
-## [transition-property](https://developer.mozilla.org/ja/docs/Web/CSS/transition-property/)
-## [transition-duration](https://developer.mozilla.org/ja/docs/Web/CSS/transition-duration/)
 ## [transition-delay](https://developer.mozilla.org/ja/docs/Web/CSS/transition-delay/)
 ## [transition-timing-function](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)
 ## ・[ease](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：開始と終了を滑らかに
