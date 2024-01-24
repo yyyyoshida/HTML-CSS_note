@@ -97,7 +97,7 @@
 ## ・[origin](https://developer.mozilla.org/ja/docs/Web/CSS/transform-origin/)
 ## ・[scale()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scale/)
 ## ・[scale Y X ()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scaleY/)
-## ・[](/)
+## ・[translate](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/translate/)
 ## ・[](/)
 ## ・[](/)
 ## ・[](/)
