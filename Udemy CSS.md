@@ -75,9 +75,24 @@
 ## position: absolute
 ## position: fixed
 ## [position: sticky](https://zero-plus.io/media/use-sticky-to-fix-elements//)
-[](/)
-[](/)
-
+# transition
+## [transition](https://developer.mozilla.org/ja/docs/Web/CSS/transition/)
+## transitionプロパティ
+## [transition-property](https://developer.mozilla.org/ja/docs/Web/CSS/transition-property/)
+## [transition-duration](https://developer.mozilla.org/ja/docs/Web/CSS/transition-duration/)
+## [transition-delay](https://developer.mozilla.org/ja/docs/Web/CSS/transition-delay/)
+## [transition-timing-function](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
 
 
 
