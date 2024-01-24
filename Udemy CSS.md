@@ -92,11 +92,9 @@
 ***
 # Transform
 ## [transform](https://developer.mozilla.org/ja/docs/Web/CSS/transform/)
-## ・[rotate()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/rotate/) 
-## ・[rotate x y z ()](https://developer.mozilla.org/ja/docs/Web/CSS/rotate/)
+## ・[rotate()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/rotate/) ・[x y z ()](https://developer.mozilla.org/ja/docs/Web/CSS/rotate/)
 ## ・[origin](https://developer.mozilla.org/ja/docs/Web/CSS/transform-origin/)
-## ・[scale()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scale/)
-## ・[scale Y X ()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scaleY/)
+## ・[scale()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scale/)・[Y X ()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scaleY/)
 ## ・[translate](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/translate/)
 ## ・[](/)
 ## ・[](/)
