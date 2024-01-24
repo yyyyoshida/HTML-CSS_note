@@ -87,7 +87,7 @@
 ## ・[ease-in](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：開始がゆっくり
 ## ・[ease-out](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：終了がゆっくり
 ## ・[ease-in-out](https://developer.mozilla.org/ja/docs/Web/CSS/transition-timing-function/)：開始と終了がゆっくり
-## ・cubic-bezier(※難)
+## ・[cubic-bezier](https://cubic-bezier.com/)：細かく調節
 ## [](/)
 ## [](/)
 ## [](/)
