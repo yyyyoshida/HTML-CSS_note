@@ -95,8 +95,8 @@
 ## ・[rotate()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/rotate/) 
 ## ・[rotate x y z ()](https://developer.mozilla.org/ja/docs/Web/CSS/rotate/)
 ## ・[origin](https://developer.mozilla.org/ja/docs/Web/CSS/transform-origin/)
-## ・[scale()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scale/) X Y もある
-## ・[](/)
+## ・[scale()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scale/)
+## ・[scale Y X ()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scaleY/)
 ## ・[](/)
 ## ・[](/)
 ## ・[](/)
