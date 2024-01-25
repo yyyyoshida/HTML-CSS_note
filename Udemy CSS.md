@@ -97,8 +97,10 @@
 ## ・[scale()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scale/)・[Y X ()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scaleY/)
 ## ・[translate](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/translate/)・[X Y ()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/translateX/)
 ## ・[skew](https://owl-view.com/css/2824//)
-## ・[](/)
-## ・[](/)
+# box-shadow
+## ・[box-shadow](https://saruwakakun.com/html-css/basic/box-shadow/)
+# cursor
+## ・[cursor](https://developer.mozilla.org/ja/docs/Web/CSS/cursor/)
 ## ・[](/)
 ## [](/)
 ## [](/)
