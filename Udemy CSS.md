@@ -101,8 +101,17 @@
 ## ・[box-shadow](https://saruwakakun.com/html-css/basic/box-shadow/)
 # cursor
 ## ・[cursor](https://developer.mozilla.org/ja/docs/Web/CSS/cursor/)
+# background
+## ・[background-image](https://developer.mozilla.org/ja/docs/Web/CSS/background-image/)
+## ・[background-size](https://developer.mozilla.org/ja/docs/Web/CSS/background-size/)
+## ・[background-position](https://developer.mozilla.org/ja/docs/Web/CSS/background-position/)
+## ・プロパティを一括指定 ↓
+## ・[background](https://developer.mozilla.org/ja/docs/Web/CSS/background/)
 ## ・[](/)
-## [](/)
+## ・[](/)
+## ・[](/)
+## ・[](/)
+## ・[](/)
 ## [](/)
 ## [](/)
 ## [](/)
