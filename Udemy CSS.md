@@ -120,20 +120,28 @@
 # FlexBox
 ## [display: flex](https://developer.mozilla.org/ja/docs/Web/CSS/display/)
 # [flex-direction](https://developer.mozilla.org/ja/docs/Web/CSS/flex-direction/) 
-## ・row ・row-reverse ・column ・column-reverse
+## ・row 
+## ・row-reverse 
+## ・column 
+## ・column-reverse
 # [justijy-content](https://developer.mozilla.org/ja/docs/Web/CSS/justify-content/) 
-## ・flex-start ・flex-end ・center 
-## ・space-between ・space-around ・space-evenly
+## ・flex-start 
+## ・flex-end 
+## ・center 
+## ・space-between 
+## ・space-around 
+## ・space-evenly
 # [flex wrap](https://developer.mozilla.org/ja/docs/Web/CSS/flex-wrap/)
 ## ・flex-wrap: nowrap;
 ## ・flex-wrap: wrap;
 ## ・flex-wrap: wrap-reverse;
 # [align-items](https://zero-plus.io/media/css-align-items-how-to-use/)
-## ・align-items: flex-start;
-## ・align-items: flex-end;
-## ・align-items: center;
-## ・align-items: baseline;
-## ・align-items: stretch;
+## ・flex-start;
+## ・flex-end;
+## ・center;
+## ・baseline;
+## ・stretch;
+# [align-content](/)
 ## [](/)
 ## [](/)
 ## [](/)
