@@ -141,11 +141,12 @@
 ## ・center;
 ## ・baseline;
 ## ・stretch;
-# [align-content](/) [ali-itemsとali-contentの違い](https://scrapbox.io/mrsekut-p/flex%E3%81%A7%E3%81%AEalign-content%E3%81%A8align-items%E3%81%AE%E9%81%95%E3%81%84/)
+# [align-content](/)
 ## [](/)
 ## [](/)
 ## [](/)
 ## [](/)
+# [align-itemsとalign-contentの違い](https://scrapbox.io/mrsekut-p/flex%E3%81%A7%E3%81%AEalign-content%E3%81%A8align-items%E3%81%AE%E9%81%95%E3%81%84/)
 ## [](/)
 ## [](/)
 ## [](/)
