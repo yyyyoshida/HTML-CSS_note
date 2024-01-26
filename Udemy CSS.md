@@ -128,12 +128,12 @@
 ## ・flex-wrap: nowrap;
 ## ・flex-wrap: wrap;
 ## ・flex-wrap: wrap-reverse;
-## ・[](/)
 # [align-items](https://zero-plus.io/media/css-align-items-how-to-use/)
 ## ・align-items: flex-start;
 ## ・align-items: flex-end;
 ## ・align-items: center;
-## ・
+## ・align-items: baseline;
+## ・align-items: stretch;
 ## [](/)
 ## [](/)
 ## [](/)
