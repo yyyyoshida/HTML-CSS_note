@@ -129,7 +129,7 @@
 ## ・flex-wrap: wrap;
 ## ・flex-wrap: wrap-reverse;
 ## ・[](/)
-## [](/)
+# [align-items](https://developer.mozilla.org/ja/docs/Web/CSS/align-items)
 ## [](/)
 ## [](/)
 ## [](/)
