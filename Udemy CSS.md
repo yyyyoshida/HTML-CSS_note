@@ -117,7 +117,7 @@
 # calc()
 ## [calc()](https://developer.mozilla.org/ja/docs/Web/CSS/calc/)
 ***
-# flexbox
+# FlexBox
 ## [display: flex](https://developer.mozilla.org/ja/docs/Web/CSS/display/)
 # [flex-direction](https://developer.mozilla.org/ja/docs/Web/CSS/flex-direction/) 
 ## ・row ・row-reverse ・column ・column-reverse
@@ -130,6 +130,10 @@
 ## ・flex-wrap: wrap-reverse;
 ## ・[](/)
 # [align-items](https://developer.mozilla.org/ja/docs/Web/CSS/align-items)
+## ・align-items: flex-start;
+## ・align-items: flex-end;
+## ・align-items: center;
+## ・
 ## [](/)
 ## [](/)
 ## [](/)
