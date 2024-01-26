@@ -111,7 +111,14 @@
 ## ・プロパティを一括指定 ↓
 ## ・[background](https://developer.mozilla.org/ja/docs/Web/CSS/background/) ※ bg-sizeの後ろに'/'
 ***
-## ・[](/)
+# Google Fonts
+## [Google Fonts](https://knowledge.spirers.jp/article/development/detail/3636/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
 ## ・[](/)
 ## ・[](/)
 ## ・[](/)
