@@ -124,10 +124,10 @@
 # [justijy-content](https://developer.mozilla.org/ja/docs/Web/CSS/justify-content/) 
 ## ・flex-start ・flex-end ・center 
 ## ・space-between ・space-around ・space-evenly
-# [flex wrap](/)
-## ・[](/)
-## ・[](/)
-## ・[](/)
+# [flex wrap](https://developer.mozilla.org/ja/docs/Web/CSS/flex-wrap/)
+## ・flex-wrap: nowrap;
+## ・flex-wrap: wrap;
+## ・flex-wrap: wrap-reverse;
 ## ・[](/)
 ## [](/)
 ## [](/)
