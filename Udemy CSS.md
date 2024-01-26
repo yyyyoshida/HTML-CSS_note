@@ -113,7 +113,11 @@
 ***
 # Google Fonts
 ## [Google Fonts](https://knowledge.spirers.jp/article/development/detail/3636/)
-## [](/)
+***
+# calc()
+## [calc()](https://developer.mozilla.org/ja/docs/Web/CSS/calc/)
+***
+# flexbox
 ## [](/)
 ## [](/)
 ## [](/)
