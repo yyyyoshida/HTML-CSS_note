@@ -141,7 +141,7 @@
 ## ・center;
 ## ・baseline;
 ## ・stretch;
-# [align-content](/)
+# [align-content](https://zero-plus.io/media/align-content-how-to-use/)
 ## [](/)
 ## [](/)
 ## [](/)
