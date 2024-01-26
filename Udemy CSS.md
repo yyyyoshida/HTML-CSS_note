@@ -97,16 +97,20 @@
 ## ・[scale()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scale/)・[Y X ()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/scaleY/)
 ## ・[translate](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/translate/)・[X Y ()](https://developer.mozilla.org/ja/docs/Web/CSS/transform-function/translateX/)
 ## ・[skew](https://owl-view.com/css/2824//)
+***
 # box-shadow
 ## ・[box-shadow](https://saruwakakun.com/html-css/basic/box-shadow/)
+***
 # cursor
 ## ・[cursor](https://developer.mozilla.org/ja/docs/Web/CSS/cursor/)
+***
 # background
 ## ・[background-image](https://developer.mozilla.org/ja/docs/Web/CSS/background-image/)
 ## ・[background-size](https://developer.mozilla.org/ja/docs/Web/CSS/background-size/)
 ## ・[background-position](https://developer.mozilla.org/ja/docs/Web/CSS/background-position/)
 ## ・プロパティを一括指定 ↓
-## ・[background](https://developer.mozilla.org/ja/docs/Web/CSS/background/)
+## ・[background](https://developer.mozilla.org/ja/docs/Web/CSS/background/) ※ bg-sizeの後ろに'/'
+***
 ## ・[](/)
 ## ・[](/)
 ## ・[](/)
