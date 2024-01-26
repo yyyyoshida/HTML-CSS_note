@@ -136,21 +136,37 @@
 ## ・flex-wrap: wrap;
 ## ・flex-wrap: wrap-reverse;
 # [align-items](https://zero-plus.io/media/css-align-items-how-to-use/)
-## ・flex-start;
-## ・flex-end;
-## ・center;
-## ・baseline;
-## ・stretch;
+## ・flex-start
+## ・flex-end
+## ・center
+## ・baseline
+## ・stretch
 # [align-content](https://zero-plus.io/media/align-content-how-to-use/)
+## ・flex-starta
+## ・flex-end
+## ・center
+## ・space-between
+## ・space-around
+## ・space-evenly
+# [align-self](https://developer.mozilla.org/ja/docs/Web/CSS/align-self/)
+# [flex-basis](https://zero-plus.io/media/css-flex-basis-how-to-use//)
+## [flex-grow](https://zero-plus.io/media/flex-grow-how-to-use//)
 ## [](/)
 ## [](/)
 ## [](/)
 ## [](/)
-# [align-itemsとalign-contentの違い](https://scrapbox.io/mrsekut-p/flex%E3%81%A7%E3%81%AEalign-content%E3%81%A8align-items%E3%81%AE%E9%81%95%E3%81%84/)
+## [flex-shrink](/)
 ## [](/)
 ## [](/)
 ## [](/)
-
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
+## [](/)
 
 
 
