@@ -149,6 +149,8 @@
 ## ・space-around
 ## ・space-evenly
 # [align-self](https://developer.mozilla.org/ja/docs/Web/CSS/align-self/)
+# フレックスアイテムの大きさに関連するプロパティ
+# [説明](https://soroban-practice.mintsu-dev.com/addition/)
 # [flex-basis](https://zero-plus.io/media/css-flex-basis-how-to-use//)
 # [flex-grow](https://zero-plus.io/media/flex-grow-how-to-use//)
 # [flex-shrink](/)
