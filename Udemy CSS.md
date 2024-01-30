@@ -156,7 +156,7 @@
 # [flex-shrink](https://zero-plus.io/media/css-flex-shrink-how-to-use//)　： どのように縮めるかの設定
 # [flex](https://zero-plus.io/media/css-flex-shorthand//)　　　　： 省略記法
 # Responsive Design
-## [](/)　
+# [Media query](https://www.udemy.com/course/the-web-developer-bootcamp-2021-japan/learn/lecture/28281510#overview/)　
 ## [](/)
 ## [](/)
 ## [](/)
