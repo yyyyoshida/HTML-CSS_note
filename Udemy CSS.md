@@ -151,10 +151,10 @@
 # [align-self](https://developer.mozilla.org/ja/docs/Web/CSS/align-self/)
 # フレックスアイテムの大きさに関連するプロパティ
 # [説明](https://soroban-practice.mintsu-dev.com/addition/)
-# [flex-basis](https://zero-plus.io/media/css-flex-basis-how-to-use//)
-# [flex-grow](https://zero-plus.io/media/flex-grow-how-to-use//)
-# [flex-shrink](/)
-## [](/)
+# [flex-basis](https://zero-plus.io/media/css-flex-basis-how-to-use//) 　 ：基準となる幅の設定
+# [flex-grow](https://zero-plus.io/media/flex-grow-how-to-use//)  　 ： どのように広げるかの設定
+# [flex-shrink](https://zero-plus.io/media/css-flex-shrink-how-to-use//)　： どのように縮めるかの設定
+## [](/)　
 ## [](/)
 ## [](/)
 ## [](/)
