@@ -154,6 +154,7 @@
 # [flex-basis](https://zero-plus.io/media/css-flex-basis-how-to-use//) 　 ：基準となる幅の設定
 # [flex-grow](https://zero-plus.io/media/flex-grow-how-to-use//)  　 ： どのように広げるかの設定
 # [flex-shrink](https://zero-plus.io/media/css-flex-shrink-how-to-use//)　： どのように縮めるかの設定
+# [flex](https://zero-plus.io/media/css-flex-shorthand//)　　　　： 省略記法
 ## [](/)　
 ## [](/)
 ## [](/)
