@@ -50,7 +50,7 @@
 
 ## [border-radius](https://developer.mozilla.org/ja/docs/Web/CSS/border-radius/)
 
-# [box-sizing](https://developer.mozilla.org/ja/docs/Web/CSS/box-sizing/)
+# [box-sizing](https://saruwakakun.com/html-css/reference/box-sizing/)
 
 ## ・content-box
 ## ・border-box
