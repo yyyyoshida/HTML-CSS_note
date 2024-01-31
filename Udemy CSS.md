@@ -13,7 +13,7 @@
 ## [隣接セレクター](https://wp-p.info/tpl_rep.php?cat=css-intermediate&fl=r3)
 
 ## [直下セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Child_combinator/)
-##[隣接、間接、直下セレクター](https://beeyanblog.com/css-%E9%9A%A3%E6%8E%A5%E3%83%BB%E9%96%93%E6%8E%A5%E3%83%BB%E7%9B%B4%E4%B8%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%BF%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/#%E9%9A%A3%E6%8E%A5%E3%83%BB%E9%96%93%E6%8E%A5%E3%83%BB%E7%9B%B4%E4%B8%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%BF)
+## [隣接、間接、直下セレクター](https://beeyanblog.com/css-%E9%9A%A3%E6%8E%A5%E3%83%BB%E9%96%93%E6%8E%A5%E3%83%BB%E7%9B%B4%E4%B8%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%BF%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/#%E9%9A%A3%E6%8E%A5%E3%83%BB%E9%96%93%E6%8E%A5%E3%83%BB%E7%9B%B4%E4%B8%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%BF)
 
 ## [属性セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Attribute_selectors/)
 ***
