@@ -1,3 +1,5 @@
+# [プロパティチートシート](https://korenarawakaru.com/tech/css/property-cheatsheet)
+
 ## [text-align](https://developer.mozilla.org/ja/docs/Web/CSS/text-align/)
 
 ## [font-weight](https://developer.mozilla.org/ja/docs/Web/CSS/font-weight/)
@@ -10,7 +12,7 @@
 
 ## [font-family](https://developer.mozilla.org/ja/docs/Web/CSS/font-family/)
 ***
-# [隣接、間接、直下セレクター](https://beeyanblog.com/css-%E9%9A%A3%E6%8E%A5%E3%83%BB%E9%96%93%E6%8E%A5%E3%83%BB%E7%9B%B4%E4%B8%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%BF%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/#%E9%9A%A3%E6%8E%A5%E3%83%BB%E9%96%93%E6%8E%A5%E3%83%BB%E7%9B%B4%E4%B8%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%BF)
+## [隣接、間接、直下セレクター](https://beeyanblog.com/css-%E9%9A%A3%E6%8E%A5%E3%83%BB%E9%96%93%E6%8E%A5%E3%83%BB%E7%9B%B4%E4%B8%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%BF%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/#%E9%9A%A3%E6%8E%A5%E3%83%BB%E9%96%93%E6%8E%A5%E3%83%BB%E7%9B%B4%E4%B8%8B%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%BF)
 
 ## [属性セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Attribute_selectors/)
 ***
