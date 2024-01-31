@@ -157,7 +157,8 @@
 # [flex](https://zero-plus.io/media/css-flex-shorthand//)　　　　： 省略記法
 # Responsive Design
 # [Media query]()　
-## [(min-width, max-width)](/)
+## [(min-width, max-width)](https://www.wakuwakubank.com/posts/443-html-css-media-query/)
+## [ブレークポイント](https://getbootstrap.jp/docs/5.3/layout/breakpoints/)
 ## [(orientation: landscape)](https://web.runland.co.jp/frontend/post-3505/)
 ## [(orientation: portrait)](https://web.runland.co.jp/frontend/post-3505/)
 ## [](/)
