@@ -10,7 +10,7 @@
 
 ## [font-family](https://developer.mozilla.org/ja/docs/Web/CSS/font-family/)
 ***
-## [隣接セレクター](https://wp-p.info/tpl_rep.php?cat=css-intermediate&fl=r3/)
+## [隣接セレクター](https://wp-p.info/tpl_rep.php?cat=css-intermediate&fl=r3)
 
 ## [直下セレクター](https://developer.mozilla.org/ja/docs/Web/CSS/Child_combinator/)
 
