@@ -165,7 +165,7 @@
 
 ***
 # [CSSリセット](https://tatuking.com/reset-css/)
-## [](/)
+## [コピペ用](https://meyerweb.com/eric/tools/css/reset/)
 ## [](/)
 ## [](/)
 ## [](/)
