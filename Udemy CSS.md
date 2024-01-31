@@ -158,7 +158,7 @@
 # Responsive Design
 # [Media query]()　
 ## [(min-width, max-width)](https://www.wakuwakubank.com/posts/443-html-css-media-query/)
-## [ブレークポイント参考１](https://getbootstrap.jp/docs/5.3/layout/breakpoints/)[ブレイクポイント参考２](https://meipla.jp/mediaquery/)
+## [ブレークポイント参考１](https://getbootstrap.jp/docs/5.3/layout/breakpoints/)：[ブレイクポイント参考２](https://meipla.jp/mediaquery/)
 ## [(orientation: landscape)](https://web.runland.co.jp/frontend/post-3505/)
 ## [(orientation: portrait)](https://web.runland.co.jp/frontend/post-3505/)
 ## [](/)
