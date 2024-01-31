@@ -156,7 +156,7 @@
 # [flex-shrink](https://zero-plus.io/media/css-flex-shrink-how-to-use//)　： どのように縮めるかの設定
 # [flex](https://zero-plus.io/media/css-flex-shorthand//)　　　　： 省略記法
 # Responsive Design
-# [Media query]()　
+# [メディアクエリ](https://www.willgate.co.jp/promonista/media-query/)　
 ## [(min-width, max-width)](https://www.wakuwakubank.com/posts/443-html-css-media-query/)
 ## [ブレークポイント参考１](https://getbootstrap.jp/docs/5.3/layout/breakpoints/)：[ブレイクポイント参考２](https://meipla.jp/mediaquery/)
 ## [(orientation: landscape)](https://web.runland.co.jp/frontend/post-3505/)
