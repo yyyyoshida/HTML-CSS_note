@@ -173,7 +173,7 @@
 ***
 # [CSSリセット](https://tatuking.com/reset-css/)
 ## [コピペ用](https://meyerweb.com/eric/tools/css/reset/)
-## [](/)
+## [white-space](https://zenn.dev/katoaki/articles/3386cfb6c8c46b/)
 ## [](/)
 ## [](/)
 ## [](/)
