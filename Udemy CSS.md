@@ -1,6 +1,6 @@
 # [プロパティチートシート](https://korenarawakaru.com/tech/css/property-cheatsheet)
 ***
-## [text-align](https://developer.mozilla.org/ja/docs/Web/CSS/text-align/)
+## [text-align: center;](https://developer.mozilla.org/ja/docs/Web/CSS/text-align/)
 
 ## [font-weight](https://developer.mozilla.org/ja/docs/Web/CSS/font-weight/)
 
